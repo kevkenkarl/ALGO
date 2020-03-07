@@ -1,0 +1,31 @@
+namimili sa palengke 500pesos ang pera
+steps FROM HOUSE TO MARKET, WHILE BUYING, BACK TO HOUSE
+1.Gumawa ng listahan
+2.lumabas ng bahay
+3.Maglakad papuntang palengke
+4.papasok sa palengke
+5.hanapin ang mga putahe sa listahan
+6.mag canvas para maka mura, tingnan kung maganda ang kwalidad ng mga nasa lisatahan
+7.bumili ng isang kilong galunggong (130pesos)
+8.bilhin ang susunod na putahe an isang kilo ng pork sigang (150pesos)
+9.bilhin ang susunod na putahe ang isang kilong checken wings (150pesos)
+10.bilhin ang mga rekados kamatis,kangkong,sibuyas,seasonings,(70pesos)
+11.umalis sa palenke
+12.umuwi sa bahay
+13.ayusin ang mga putahe
+
+
+STEPS FROM HOUSE TO MARKET, WHILE BUYING, BACK TO HOUSE
+1. Make a list of a recipe.
+2. Leave on your house to go in public market.
+3. Walk from your house to public market.
+4. Go to the public market.
+5. Find the list of your recipe in public market.
+6. Canvas your recipe prices, and check the quality of the recipe list.
+7. Buy 1 kilogram of galunggong (130 Pesos).
+8. Buy the next recipe on your list, 1 kilogram of pork sigang (150 Pesos).
+9. Buy 1 kilogram of chicken wings (70 Pesos).
+10. Buy recipes like onions, kangkong, tomatoes, and seasonings (70 Pesos).
+11. If you're done, get out of the market.
+12. Go back to your house.
+13. Organize your ingredients.
